@@ -1,0 +1,8 @@
+/Mojolicious-Command-bcrypt-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
+/.prove
+.vstags

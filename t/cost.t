@@ -4,8 +4,6 @@ use Crypt::Eksblowfish::Bcrypt ();
 use Mojolicious::Command::bcrypt;
 
 my @passwords = (
-    '',
-    undef,
     0,
     'password',
     'U*U',

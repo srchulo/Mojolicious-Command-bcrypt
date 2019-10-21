@@ -87,7 +87,7 @@ Mojolicious::Command::bcrypt - bcrypt a password using the settings in your Mojo
 
 =head1 DESCRIPTION
 
-L<Mojolicious::Command::bcrypt> allows you to crypt a password using C<bcrypt> via a L<Mojolicious::Comand>.
+L<Mojolicious::Command::bcrypt> allows you to crypt a password using C<bcrypt> via a L<Mojolicious::Command>.
 
 If you are using a L<Mojolicious::Plugin> like L<Mojolicious::Plugin::BcryptSecure> or L<Mojolicious::Plugin::Bcrypt> that installs a
 C<bcrypt> helper, then this helper along with any settings you provided the plugin will be used to generate the crypted text:

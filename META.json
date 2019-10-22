@@ -64,9 +64,10 @@
          "web" : "https://github.com/srchulo/Mojolicious-Command-bcrypt"
       }
    },
-   "version" : "0.01",
+   "version" : "0.02",
    "x_contributors" : [
-      "Adam Hopkins <violapiratejunky@gmail.com>"
+      "Adam Hopkins <violapiratejunky@gmail.com>",
+      "Mohammad S Anwar <mohammad.anwar@yahoo.com>"
    ],
    "x_generated_by_perl" : "v5.30.0",
    "x_serialization_backend" : "Cpanel::JSON::XS version 4.13",

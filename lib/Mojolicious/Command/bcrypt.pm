@@ -4,7 +4,7 @@ use Crypt::Eksblowfish::Bcrypt ();
 use Crypt::URandom ();
 use Mojo::Util ();
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 has description => 'bcrypt a password using the settings in your Mojolicious app.';
 

@@ -41,7 +41,7 @@ Mojolicious::Command::bcrypt - bcrypt a password using the settings in your Mojo
 
 # DESCRIPTION
 
-[Mojolicious::Command::bcrypt](https://metacpan.org/pod/Mojolicious::Command::bcrypt) allows you to crypt a password using `bcrypt` via a [Mojolicious::Comand](https://metacpan.org/pod/Mojolicious::Comand).
+[Mojolicious::Command::bcrypt](https://metacpan.org/pod/Mojolicious::Command::bcrypt) allows you to crypt a password using `bcrypt` via a [Mojolicious::Command](https://metacpan.org/pod/Mojolicious::Command).
 
 If you are using a [Mojolicious::Plugin](https://metacpan.org/pod/Mojolicious::Plugin) like [Mojolicious::Plugin::BcryptSecure](https://metacpan.org/pod/Mojolicious::Plugin::BcryptSecure) or [Mojolicious::Plugin::Bcrypt](https://metacpan.org/pod/Mojolicious::Plugin::Bcrypt) that installs a
 `bcrypt` helper, then this helper along with any settings you provided the plugin will be used to generate the crypted text:

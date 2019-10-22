@@ -1,6 +1,7 @@
 Revision history for Mojolicious-Command-bcrypt
 
 {{$NEXT}}
+        - Fixed minor typo in the pod. #1 (@manwar)
 
 0.01  2019-10-20 17:32:19 CDT
         - Initial release

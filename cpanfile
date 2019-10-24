@@ -1,6 +1,6 @@
 requires 'perl', '5.010001';
 
-requires 'Mojolicious';
+requires 'Mojolicious', '8.16';
 requires 'Crypt::Eksblowfish::Bcrypt';
 requires 'Crypt::URandom';
 

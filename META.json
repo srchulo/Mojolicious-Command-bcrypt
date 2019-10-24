@@ -39,7 +39,7 @@
          "requires" : {
             "Crypt::Eksblowfish::Bcrypt" : "0",
             "Crypt::URandom" : "0",
-            "Mojolicious" : "0",
+            "Mojolicious" : "8.16",
             "perl" : "5.010001"
          }
       },
@@ -64,7 +64,7 @@
          "web" : "https://github.com/srchulo/Mojolicious-Command-bcrypt"
       }
    },
-   "version" : "0.02",
+   "version" : "0.03",
    "x_contributors" : [
       "Adam Hopkins <violapiratejunky@gmail.com>",
       "Mohammad S Anwar <mohammad.anwar@yahoo.com>"
